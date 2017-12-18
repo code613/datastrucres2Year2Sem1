@@ -8,7 +8,7 @@ namespace BE
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)//here is a change
         {
         }
     }
